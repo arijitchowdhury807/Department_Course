@@ -8,8 +8,8 @@ The Department Management System (DMS) is designed to streamline educational ope
 
 ## Live Applications
 
-- Frontend: <https://department-ms.vercel.app/>
-- API: <https://departmentms-1.onrender.com/>
+- Frontend: <https://department-course.vercel.app/>
+- API: <https://department-course.onrender.com/>
 
 ## Documentation
 
